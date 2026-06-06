@@ -113,7 +113,7 @@ const PRODUCTS = [
 
 const COLLECTIONS = [
   { name: "Atelier", desc: "Master craftsmanship, elevated.",    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=700&q=85" },
-  { name: "Essentials", desc: "Timeless, understated luxury.",   image: "https://images.unsplash.com/photo-1616844868137-7ffaf43c2d81?w=700&q=85" },
+  { name: "Essentials", desc: "Timeless, understated luxury.",   image: "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=700&q=85" },
   { name: "Maison", desc: "Art de vivre, refined.",              image: "https://images.unsplash.com/photo-1547949003-9792a18a2601?w=700&q=85" },
   { name: "Resort", desc: "Effortless warm-weather dressing.",   image: "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=700&q=85" },
 ];
